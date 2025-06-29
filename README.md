@@ -5,12 +5,12 @@
 	</a>
 </p>
 
-<h1 align="center">Tachiyomi <a href="#">Website</a></h1>
+<h1 align="center">f-lexus.com <a href="#">Website</a></h1>
 <h3 align="center">Full-featured reader</h3>
 <p align="center">Discover and read manga, webtoons, comics, and more – easier than ever on your Android device.</p>
 
 <p align="center">
-	<a title="Netlify deployment" href="https://app.netlify.com/sites/tachiyomiorg/deploys">
+	<a title="Netlify deployment" href="https://app.netlify.com/sites/f-lexus/deploys">
 		<img src="https://api.netlify.com/api/v1/badges/95d9e2f8-42ae-4e40-8c99-82b870c51e1a/deploy-status">
 	</a>
 	<br>
@@ -24,14 +24,14 @@
 	·
 	<a href="./CONTRIBUTING.md">Contributing guide</a>
 	·
-	<a href="https://tachiyomi.org/sandbox/style-guide/">Project style guide</a>
+	<a href="https://f-lexus.com/sandbox/style-guide/">Project style guide</a>
 </p>
 
 <p align="center">Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.</p>
 
 <h3 align="center">License</h3>
 
-<pre align="center">Copyright © 2023 The Tachiyomi Open Source Project<br><br>This Source Code Form is subject to the terms of the Mozilla Public<br>License, v. 2.0. If a copy of the MPL was not distributed with this<br>file, You can obtain one at http://mozilla.org/MPL/2.0/.</pre>
+<pre align="center">Copyright © 2025 The f-lexus Open Source Project<br><br>This Source Code Form is subject to the terms of the Mozilla Public<br>License, v. 2.0. If a copy of the MPL was not distributed with this<br>file, You can obtain one at http://mozilla.org/MPL/2.0/.</pre>
 
 <h3 align="center">Credits</h3>
 
